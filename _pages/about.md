@@ -11,11 +11,11 @@ profile:
   more_info: >
 
 news: true # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-*There should be an impressive motto and a profile photo here.* <br>
+\[*There should be an impressive motto and a profile photo here.*\]<br>
 
 Hello! I’m Wu (吴) Bin (彬), a first-year graduate student at [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University](https://whu.edu.cn/). You can also call me by my online name Luo (罗) Jiaming (家明), which is pronounced similarly to "珞珈民" in Chinese, referring to the residents of Mount Luojia. 
 
