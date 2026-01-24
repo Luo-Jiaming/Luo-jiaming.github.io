@@ -7,3 +7,11 @@
 
 "Vision":
   color: "#009f36"
+
+"ArXiv Preprint":
+  url: https://arxiv.org/
+  color: "#B31B1B"
+
+"CVPR 2025":
+  url: https://cvpr.thecvf.com/Conferences/2025
+  color: "#070BFF"

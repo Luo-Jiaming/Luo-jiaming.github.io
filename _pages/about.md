@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hello! I’m Wu (吴) Bin (彬), a first-year graduate student at [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University](https://whu.edu.cn/). You can also call me by my online name Luo (罗) Jiaming (家明), which is pronounced similarly to "珞珈民" in Chinese, referring to the residents of Mount Luojia. 
+Hello! I’m Wu (吴) Bin (彬), a second-year MS student at [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University](https://whu.edu.cn/). You can also call me by my online name Luo (罗) Jiaming (家明), which is pronounced similarly to "珞珈民" in Chinese, referring to the residents of Mount Luojia. 
 
 I'm a member of the [Mars Group](https://marswhu.github.io/), advised by [Prof. Ye Mang](http://jszy.whu.edu.cn/yemang/zh_CN/index.htm). My research interests lie broadly in artificial intelligence, especially topics related to deep learning. Currently, I focus on **continual learning** (*i.e., lifelong/incremental learning*) and **multimodal learning**.
 
